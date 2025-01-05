@@ -194,6 +194,8 @@ A sample of options
 (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you)
 are available on [this page](extras/specializations.md).
 
+[Access AWS Resources here after Data Science path](https://www.awseducate.com/student/s/content)
+
 ### Congratulations
 
 After completing the requirements of the curriculum above,
