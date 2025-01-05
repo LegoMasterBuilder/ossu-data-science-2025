@@ -90,17 +90,17 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ### Introduction to Data Science
 
-[ ] (ongoing module 2) [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
+- [ ] (ongoing module 2) [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ### Introduction to Computer Science
 
 _Students who already know basic programming in any language can skip this first course_
 
-[ ] (ongoing Week 2) [Introduction to programming](coursepages/intro-programming/README.md)
+- [ ] (ongoing Week 2) [Introduction to programming](coursepages/intro-programming/README.md)
 
-[ ] [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+- [ ] [Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
 
-[ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 ### Data Structures and Algorithms
 
